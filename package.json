@@ -1,0 +1,30 @@
+{
+  "name": "crossword-solver",
+  "version": "1.0.0",
+  "description": "Automatic crosword solver for 24sata website.",
+  "main": "solver.js",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capJavert/crossword-solver.git"
+  },
+  "keywords": [
+    "automatic",
+    "puppeteer",
+    "e2e",
+    "automation",
+    "test"
+  ],
+  "author": "capJavert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capJavert/crossword-solver/issues"
+  },
+  "homepage": "https://github.com/capJavert/crossword-solver#readme"
+}
