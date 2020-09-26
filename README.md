@@ -1,7 +1,9 @@
-# crossword-solver
+# Crossword Solver
 Automatic crosword solver for 24sata website.
 
 Automatically solve any crossword puzzle on Croatian [24 sata portal](https://www.24sata.hr/zabava/krizaljke/).
+
+![Solving example](https://github.com/capJavert/crossword-solver/raw/master/example.gif "Clippy in action!")
 
 ## Usage
 
